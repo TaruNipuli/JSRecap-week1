@@ -6,5 +6,5 @@ const tempKelvin = tempCelsius + 273.15;
 tempResultFah = `${tempCelsius} Celsius in Fahrenheit: ${tempFahrenheit}`;
 tempResultKel = `${tempCelsius} Celsius in Kelvin: ${tempKelvin}`;
 
-document.getElementById("tempResultFah").innerHTML = tempResultFah;
-document.getElementById("tempResultKel").innerHTML = tempResultKel;
+document.getElementById("tempResultFah").innerText = tempResultFah;
+document.getElementById("tempResultKel").innerText = tempResultKel;
