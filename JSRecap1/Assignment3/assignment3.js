@@ -1,3 +1,5 @@
+'use strict';
+
 //const side1 = parseFloat(prompt("Enter the length of side 1: "));
 //const side2 = parseFloat(prompt("Enter the length of side 2: "));
 //const side3 = parseFloat(prompt("Enter the length of side 3: "));

@@ -1,3 +1,5 @@
+'use strict';
+
 const tempCelsius = parseFloat(prompt("Enter the temperature in Celsius: "));
 
 const tempFahrenheit = (tempCelsius * 9/5) + 32;

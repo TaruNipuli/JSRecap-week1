@@ -1,4 +1,4 @@
-
+'use strict';
 
 const point1 = prompt("Enter the coordinates of the first point (x1, y1) separated by a comma:");
 // Split the input string by comma and convert the resulting substrings to numbers
