@@ -6,7 +6,7 @@
 
 const sides = [];
 
-for (i = 1; i <= 3; i++) {
+for (let i = 1; i <= 3; i++) {
     sides.push(parseFloat(prompt(`Enter the side ${i}: `)));
 }
 
